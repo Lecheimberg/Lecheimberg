@@ -50,8 +50,8 @@ I'm Lucas, a Software Development student at Brigham Young University-Idaho and 
 ## GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Lecheimberg&show_icons=true&hide_border=true&count_private=true" alt="Lucas's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lecheimberg&layout=compact&hide_border=true" alt="Top languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lecheimberg&theme=default" alt="Lucas's GitHub stats" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lecheimberg&theme=default" alt="Most used languages" height="165"/>
 </p>
 
 ## Let's Connect!
